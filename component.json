@@ -34,6 +34,7 @@
     "development": {},
     "scripts": [
        "es5-shim.js",
-       "es5-sham.js"
+       "es5-sham.js",
+       "index.js"
     ]
 }
